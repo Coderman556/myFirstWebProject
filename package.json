@@ -1,0 +1,28 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "my first web project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coderman556/myFirstWebProject.git"
+  },
+  "keywords": [
+    "web",
+    "project",
+    "first",
+    "myFirstWebProject"
+  ],
+  "author": "Coderman556",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coderman556/myFirstWebProject/issues"
+  },
+  "homepage": "https://github.com/Coderman556/myFirstWebProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
